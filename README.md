@@ -1,4 +1,4 @@
-# asymptotic-notationC-
+# Asymptotic-notation C++
 Just a little script I put together to test a theory about asymptotic notation.
 We want to know scalability of algorithm, how it behaves when input size grows (because data amount tend to increase).
 That means the time required to any algorithm is depends on the number of inputs,
